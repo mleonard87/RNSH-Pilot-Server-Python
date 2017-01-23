@@ -1,0 +1,11 @@
+.idea
+*.iml
+*.lua
+
+*.py[oc]
+lib
+local
+bin
+include
+
+pip-selfcheck.json
